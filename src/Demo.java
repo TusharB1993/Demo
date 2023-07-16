@@ -5,6 +5,7 @@ public class Demo {
 	while (x<101){
 		System.out.println(x);
 		x++;
+		System.out.println("restored ");
 	}
 	
 	
